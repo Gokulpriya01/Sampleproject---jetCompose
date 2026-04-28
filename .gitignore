@@ -1,0 +1,29 @@
+*.iml
+.gradle
+/local.properties
+.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.sonar/
+.scannerwork/
+app/app-live.apk
+app/app-release.apk
+
+app/release/
+/caches
+/notifications
+/native
+/daemon
+
+app/.cxx/
+
+*.jks
+Google Play*.json
+/fastlane/report.xml
+
+# Translation Node dependency
+node_modules
+.gradle-user
+.gradle-user-home
