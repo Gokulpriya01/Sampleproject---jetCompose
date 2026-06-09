@@ -1,4 +1,4 @@
-package com.gp.jetcompose
+package com.gp.jetCompose
 
 import org.junit.Test
 
